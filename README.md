@@ -28,7 +28,7 @@ FOR PIGEONPOSSE.COM
 -->
 # PIGEONPOSSE™ Htmlhint Setup
 
-[Web](https://pigeonposse.com) | [About us](https://pigeonposse.com/?popup=about) | [Donate](https://pigeonposse.com/?popup=donate) 
+[![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) [![Web](https://img.shields.io/badge/Web-grey)](https://pigeonposse.com/) [![About us](https://img.shields.io/badge/Abot--us-grey)](https://pigeonposse.com/?popup=about) [![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink)](https://pigeonposse.com/?popup=donate)
 
 PIGEONPOSSE™ Htmlhint configuration
 
@@ -48,6 +48,17 @@ Local installation:
 npm install @pigeon-posse/htmlhint-config
 ```
 
+## ⚙️ Usage
+
+### package.json
+
+```json
+{
+  "scripts": {
+  	"htmlhint" : "htmlhint --config ./node_modules/@pigeon-posse/htmlhint-config/index.js src/**/*.html"
+  }
+}
+```
 
 ## ☕ Donate
 
@@ -57,7 +68,7 @@ Help us to develop more interesting things
 
 ## 📜 License
 
-This sofware is licensed with GPL V.3 (GNU GENERAL PUBLIC LICENSE Version 3)
+This sofware is licensed with GPLv3 (GNU GENERAL PUBLIC LICENSE Version 3)
 
 [Read more](https://github.com/PigeonPosse/linter/LICENSE)
 

@@ -1,6 +1,6 @@
 {
 	"name": "@pigeon-posse/htmlhint-config",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "PigeonPosse Htmlhint configuration",
 	"main": "index.js",
 	"scripts": {
@@ -10,7 +10,6 @@
 		"htmlhint": ">= 1"
 	},
 	"keywords": [
-		"linter",
 		"html",
 		"htmlhint",
 		"setup",
