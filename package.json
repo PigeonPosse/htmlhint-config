@@ -1,0 +1,34 @@
+{
+	"name": "@pigeon-posse/htmlhint-config",
+	"version": "1.0.0",
+	"description": "PigeonPosse Htmlhint configuration",
+	"main": "index.js",
+	"scripts": {
+		"test": ""
+	},
+	"peerDependencies": {
+		"htmlhint": ">= 1"
+	},
+	"keywords": [
+		"linter",
+		"html",
+		"htmlhint",
+		"setup",
+		"config",
+		"pigeonposse"
+	],
+	"author": "Angelo <angelo@pigeonposse.com> (https://pigeonposse.com)",
+	"license": "GPL-3.0",
+	"funding": {
+		"type": "individual",
+		"url": "https://pigeonposse.com/?popup=donate"
+	},
+	"homepage": "https://github.com/PigeonPosse/htmlhint-config",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PigeonPosse/htmlhint-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/PigeonPosse/htmlhint-config/issues"
+	}
+}
