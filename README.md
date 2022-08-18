@@ -55,7 +55,17 @@ npm install @pigeon-posse/htmlhint-config
 ```json
 {
   "scripts": {
-  	"htmlhint" : "htmlhint --config ./node_modules/@pigeon-posse/htmlhint-config/index.js src/**/*.html"
+    "htmlhint" : "pigeon-htmlhint *.html"
+  }
+}
+```
+
+or
+
+```json
+{
+  "scripts": {
+    "htmlhint" : "htmlhint --config ./node_modules/@pigeon-posse/htmlhint-config/index.js *.html"
   }
 }
 ```

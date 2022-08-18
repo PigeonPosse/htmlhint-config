@@ -1,13 +1,13 @@
 {
 	"name": "@pigeon-posse/htmlhint-config",
-	"version": "1.0.2",
+	"version": "1.1.2",
 	"description": "PigeonPosse Htmlhint configuration",
 	"main": "index.js",
-	"scripts": {
-		"test": ""
+	"bin": {
+		"pigeon-htmlhint": "./index.js"
 	},
 	"peerDependencies": {
-		"htmlhint": ">= 1"
+		"htmlhint": "^1.1.4"
 	},
 	"keywords": [
 		"html",
@@ -16,6 +16,7 @@
 		"config",
 		"pigeonposse"
 	],
+	"type": "module",
 	"author": "Angelo <angelo@pigeonposse.com> (https://pigeonposse.com)",
 	"license": "GPL-3.0",
 	"funding": {
