@@ -28,7 +28,7 @@ FOR PIGEONPOSSE.COM
 -->
 # PIGEONPOSSE™ Htmlhint Setup
 
-[![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) [![Web](https://img.shields.io/badge/Web-grey)](https://pigeonposse.com/) [![About us](https://img.shields.io/badge/Abot--us-grey)](https://pigeonposse.com/?popup=about) [![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink)](https://pigeonposse.com/?popup=donate)
+[![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) [![Web](https://img.shields.io/badge/Web-grey)](https://pigeonposse.com/) [![About us](https://img.shields.io/badge/About--us-grey)](https://pigeonposse.com/?popup=about) [![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink)](https://pigeonposse.com/?popup=donate)
 
 PIGEONPOSSE™ Htmlhint configuration
 
