@@ -31,7 +31,7 @@ FOR PIGEONPOSSE.COM
 [![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&style=flat-square&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) 
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/) 
 [![About us](https://img.shields.io/badge/About--us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
-[![Donate ko-fi](https://img.shields.io/badge/Donate-Ko--fi-pink?style=flat-square)](https://pigeonposse.com/?popup=donate)
+[![Donate ko-fi](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate)
 
 PIGEONPOSSE™ Htmlhint configuration
 
