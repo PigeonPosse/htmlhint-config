@@ -28,10 +28,11 @@ FOR PIGEONPOSSE.COM
 -->
 # PIGEONPOSSE™ Htmlhint Setup
 
-[![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&style=flat-square&label=)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) 
+[![npm](https://img.shields.io/github/license/pigeon-posse/htmlhint-config?color=blue&style=flat-square)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) 
+[![npm](https://img.shields.io/npm/v/@pigeon-posse/htmlhint-config?color=a1b858&style=flat-square&label=version)](https://npmjs.com/package/@pigeon-posse/htmlhint-config) 
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/) 
 [![About us](https://img.shields.io/badge/About--us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
-[![Donate ko-fi](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate)
+[![Donate ko-fi](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate) 
 
 PIGEONPOSSE™ Htmlhint configuration
 
@@ -95,3 +96,11 @@ PigeonPosse is a creative web development collective focused on creating innovat
 | ---------------------------------------------------------------------------------- | ----------- | ------------ | ---------------------------------------------- |
 | <img src="https://github.com/AngelEspejo.png?size=72" style="border-radius:100%"/> | AngelEspejo | Author       | [@AngelEspejo](https://github.com/AngelEspejo) |
 | <img src="https://github.com/PigeonPosse.png?size=72" style="border-radius:100%"/> | PigeonPosse | Collective	  | [@PigeonPosse](https://github.com/PigeonPosse) |
+
+
+<!--
+##
+
+[![npm](https://img.shields.io/twitter/follow/pigeonposse_?style=social&label=Follow&logoColor=black)](https://twitter.com/pigeonposse_)
+
+-->
