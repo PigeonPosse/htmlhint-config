@@ -43,5 +43,8 @@
 	},
 	"bugs": {
 		"url": "https://github.com/PigeonPosse/htmlhint-config/issues"
+	},
+	"extra": {
+		"config": false
 	}
 }
